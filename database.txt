@@ -1,0 +1,11 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVxcmtnc3FicGJ1b3Rtc2tuYWduIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUxMTgxNjMsImV4cCI6MjA4MDY5NDE2M30.n5cA6vzuKS3tinbsEE83KVa-ftvjmEbvS-9QIOSssiE
+
+
+
+
+
+https://uqrkgsqbpbuotmsknagn.supabase.co
+
+
+
+sb_secret_sjJr9gSgfb1AJxuGNGnP4Q_ZNi_SYsC

@@ -1,0 +1,35 @@
+Edit the textures;
+
+- Dashboard page:
+
+Delete " Next Distribution: Q4 2026 "
+
+Delete " ( Base/BSC ) " just stay Ethereum 
+
+- Tokenomics page:
+
+Edit " LPS ALLOCATION " by " Liquidity Pool Allocation " 
+
+Add to text " Marketing Allocation " 
+
+Edit to text " Staking " by " Staking & Lending Allocation "
+
+Edit to text " Liquidit Providers " by " Liquidity Pool " 
+
+- Roadmap Page:
+
+Edit the text by " DEX, PerpDEX and DAO platforms to be launched on Multi-Chains. ( Expected Revenue in Annually: 100M USDC ) "
+
+Edit the text by " A decentralized social application leveraging UBI Protocol's userbase to diversify revenue streams. ( Expected Revenue in Annually: 500M USDC )
+
+- Crowdfunding page:
+
+Delete the image bottom the buy button and add to text " Powered by Coinbase Pay "
+
+- Footer page: 
+
+Change the texture of " Join the Community " by more cooler texture.
+
+Change the twitter logo by official X logo
+
+Add to live animation to behind of Support Chat and place the official whatsapp logo in side.

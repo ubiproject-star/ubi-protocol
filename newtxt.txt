@@ -1,0 +1,47 @@
+Website Description: 
+
+The website is for UBI Protocol (Universal Blockchain Income), a decentralized protocol using crypto technologies to create sustainable income for $UBI holders. Key details:
+Purpose and Overview: The site serves as an introduction to UBI Protocol and a crowdfunding/presale platform for $UBI tokens. UBI Protocol aims to build revenue-generating web projects and platforms with collected funds, distributing all revenues to $UBI holders. $UBI is the network coin with a total supply of 1 billion tokens. It will be bridged and listed sequentially on BSC, SOL, BASE, and ETH networks. 250 million tokens (25%) are available for sale on the site at $0.02 per token. Another 25% will be used for liquidity pools on the four blockchains (totaling $2M in liquidity), with LPs locked until January 1, 2030. 25% is allocated for financing and incentivizing future projects on UBI Protocol. The final 25% is reserved for the UBI Protocol Layer 2 chain on Ethereum (launch planned end of 2026), providing DEX liquidity and incentives like staking for $UBI holders. Holding $UBI allows users to benefit from token value appreciation and revenues from built projects, positioning it as a utility token with unlimited potential.
+Target Audience: Everyone in the crypto ecosystem, visionaries, innovators, those seeking additional income, and forward-thinking individuals interested in decentralized finance and sustainable crypto yields.
+Main Pages and Sections: Design a dynamic landing page as the core. Structure it with:
+A cool, engaging opening/intro section (e.g., hero banner with animations highlighting the UBI vision).
+Informational sections about UBI Protocol.
+Tokenomics breakdown (supply, allocations, pricing, bridging/listing details).
+Roadmap for projects to be built:
+Project 1: USDC Giveaway Platform (launch Q4 2026, potential 100 million users, expected annual revenue $1 billion, all revenues distributed to $UBI holders; details kept confidential for idea protection until 1 week before launch).
+Project 2: UBI Protocol ETH Layer 2 (launch Q4 2026, enabling UBI DeFi features/platforms, all revenues to $UBI holders).
+Project 3: UBI Protocol Social App (launch Q2 2027, leveraging social impact from prior projects for ecosystem expansion and revenue diversification, all revenues to $UBI holders).
+Project 4: Three additional projects to be announced after crowdfunding ends.
+A presale widget for token purchase: Users enter the number of tokens to buy (up to the remaining from 250 million), with automatic price calculation at $0.02 per token. Display remaining tokens after each sale. Integrate Coinbase Payment Gateway (API details will be provided later).
+Contact section with links to X (Twitter), Telegram, and WhatsApp.
+Post-purchase user dashboard (requires login): Shows owned $UBI amount and prompts for MetaMask Ethereum wallet address entry (for token distribution).
+Subpages or Hierarchy:
+Home (Landing Page: Integrates intro, info, tokenomics, roadmap, presale widget).
+Token Sale/Presale (Dedicated page if needed, or integrated into home; includes the purchase widget).
+Dashboard (User account page: Login/signup, view $UBI balance, enter wallet address).
+Contact (Simple page with social links, or footer-integrated).
+Possibly add: FAQ, Whitepaper (if expanded later), Blog/News for updates.
+Special Features and Functionality:
+User authentication: Login/signup for dashboard access.
+Presale mechanics: Token purchase form with quantity input, real-time price calc ($0.02 * quantity), remaining supply counter, payment via Coinbase API.
+Wallet integration: In dashboard, field to input MetaMask ETH address for token airdrop/distribution.
+SEO optimization, mobile responsiveness, and accessibility (e.g., WCAG basics).
+Dynamic elements: Animations for sections (e.g., scrolling reveals, token counter updates).
+No search bar or blog comments needed initially.
+Design Style: Modern and dynamic. Primary colors: Blue (based on the logo's blue, e.g., #007BFF or similar – match the uploaded logo's shade), bright black (#000000 with glossy effects), and white (#FFFFFF). Buttons: Neon blue for calls-to-action (e.g., buy button with glow/hover effects). Fonts: Clean, modern sans-serif (e.g., something cool like Inter or Montserrat for headings, normal body text). Include subtle animations (e.g., fade-ins, parallax scrolling). Overall vibe: Professional crypto site – sleek, futuristic, trustworthy.
+Language and Accessibility: English only. Ensure mobile-friendly and basic accessibility (alt text for images, keyboard navigation).
+Additional Notes: This is a new site from scratch. Focus on sitemap first (hierarchical structure of pages and navigation), then provide wireframes/mockups for each page, HTML/CSS/JS suggestions, and integration code snippets for the presale widget and dashboard. Ensure the design emphasizes security and trust for crypto users. If needed, suggest tech stack like React for frontend, Node.js for backend, but keep it flexible.
+
+Coinbase Payment API: c7c8399b-92f6-469d-8639-3acfcf302381
+
+X ( Twitter ) link: 
+https://x.com/ubiProtocol?t=MHQVvuKKeY2fpFpWlbjTrw&s=09
+
+Telegram link: 
+https://t.me/ubiprotocol
+
+Whatsapp support link:
+https://wa.me/13436328093
+
+
+Use the images in the website but increase the quality and convert to gif / png / svg if necessary: 

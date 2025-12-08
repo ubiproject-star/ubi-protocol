@@ -1,0 +1,9 @@
+Do the following in order:
+
+1) Write the following in the presale widget: [ To ensure a smooth $UBI transfer process, contact us via WhatsApp or Telegram after payment. ] and add the WhatsApp and Telegram (t.me/PatrickUBI) links next to it. 
+
+2) Add the Farcaster logo and link to the footer: https://farcaster.xyz/ubiprotocol
+
+3) UBI image logo is still not displaying on the website and is causing an error. Please review it again and ensure it displays flawlessly on the server and UI.
+
+4) Once you've completed everything, test the website again and, when you're sure it's working smoothly, upload the code to GitHub and help me complete the process on my Vercel.com account.
