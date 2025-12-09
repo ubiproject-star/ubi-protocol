@@ -7,10 +7,12 @@
   color: #050A19;
 }
 
+html,
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
   overflow-x: hidden;
+  width: 100%;
   -webkit-font-smoothing: antialiased;
   /* Critical for crisp text */
   -moz-osx-font-smoothing: grayscale;

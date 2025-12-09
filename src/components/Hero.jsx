@@ -27,9 +27,9 @@ export default function Hero() {
     const titleText = "Universal Blockchain Income";
 
     return (
-        <div className="relative h-screen w-full overflow-hidden bg-ubDarkBlue flex items-center justify-center perspective-1000">
+        <div className="relative h-[100dvh] w-full overflow-hidden bg-ubDarkBlue flex items-center justify-center perspective-1000">
             {/* 3D Depth Background Gradient */}
-            <div className="absolute inset-0 bg-gradient-to-b from-[#0052FF] via-[#003399] to-[#000F33] z-0">
+            <div className="absolute inset-0 bg-gradient-to-b from-[#0052FF] via-[#003399] to-[#000F33] z-0 overflow-hidden">
                 {/* Caustic Overlay for "Water" feel */}
                 <div className="absolute inset-0 opacity-30 mix-blend-overlay bg-[url('https://grainy-gradients.vercel.app/noise.svg')]"></div>
 
@@ -100,7 +100,7 @@ export default function Hero() {
                     initial="hidden"
                     animate="show"
                 >
-                    <h1 className="text-5xl md:text-8xl font-black tracking-tighter text-white drop-shadow-lg flex flex-wrap justify-center gap-x-4 gap-y-2">
+                    <h1 className="text-4xl sm:text-5xl md:text-8xl font-black tracking-tighter text-white drop-shadow-lg flex flex-wrap justify-center gap-x-2 md:gap-x-4 gap-y-2">
                         {titleText.split(" ").map((word, i) => (
                             <motion.span key={i} className="inline-block whitespace-nowrap">
                                 {word.split("").map((char, index) => (
@@ -114,7 +114,7 @@ export default function Hero() {
                 </motion.div>
 
                 <motion.p
-                    className="text-xl md:text-3xl text-white mb-12 font-medium max-w-4xl mx-auto leading-relaxed"
+                    className="text-lg sm:text-xl md:text-3xl text-white mb-8 md:mb-12 font-medium max-w-4xl mx-auto leading-relaxed px-4"
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
                     transition={{ delay: 1.5, duration: 1 }}
