@@ -119,8 +119,9 @@ export default function Hero() {
                     animate={{ opacity: 1 }}
                     transition={{ delay: 1.5, duration: 1 }}
                 >
-                    <span className="bg-white/10 px-3 py-1 rounded inline-block border border-white/20 backdrop-blur-sm">Sustainable yields for participants.</span> <br className="hidden md:block" />
-                    <span className="text-blue-50 drop-shadow-md">Revenue generating platforms, fully distributed to $UBI holders.</span>
+                    <span className="bg-white/10 px-3 py-1 rounded inline-block border border-white/20 backdrop-blur-sm">Sustainable USDC earnings for UBI holders.</span> <br className="hidden md:block" />
+                    <span className="text-blue-50 drop-shadow-md">UBI Protocol distributes ecosystem revenues directly to UBI holders.</span> <br />
+                    <span className="text-blue-100 text-lg mt-2 block font-semibold">Multiply your earnings with UBI value appreciation + USDC income!</span>
                 </motion.p>
 
                 <motion.div
@@ -129,7 +130,7 @@ export default function Hero() {
                     transition={{ delay: 2.2, duration: 0.5 }}
                     className="flex flex-col sm:flex-row gap-6 justify-center items-center"
                 >
-                    <a href="#presale" className="px-8 py-5 bg-white text-ubBlue rounded-full font-black text-xl hover:bg-gray-50 transition-all shadow-[0_0_20px_rgba(255,255,255,0.4)] hover:scale-105 active:scale-95 flex items-center gap-2">
+                    <a href="#presale" className="px-8 py-5 bg-white text-ubBlue rounded-full font-black text-xl hover:bg-gray-50 transition-all shadow-[0_0_20px_rgba(255,255,255,0.4)] hover:scale-105 active:scale-95 flex items-center gap-2 animate-vibrate-glow">
                         Join Crowdfunding
                     </a>
                     <a href="#about" className="px-8 py-5 border-2 border-white text-white rounded-full font-bold text-xl hover:bg-white/10 transition-all hover:scale-105 backdrop-blur-sm">

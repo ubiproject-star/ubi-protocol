@@ -27,6 +27,9 @@ export default function Footer() {
                         <Link to="/" className="text-2xl font-black text-ubBlue block tracking-tighter">
                             UBI PROTOCOL
                         </Link>
+                        <a href="#faq" className="ml-4 px-3 py-1 bg-ubOffWhite hover:bg-ubBlue hover:text-white text-ubBlue font-bold text-sm rounded-lg transition-colors border border-ubBorder">
+                            FAQ
+                        </a>
                     </div>
                     <p className="text-ubGray text-sm max-w-sm mx-auto md:mx-0 font-medium">
                         Universal Blockchain Income. Sustainable yields for participants.

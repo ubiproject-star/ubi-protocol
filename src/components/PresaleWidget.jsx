@@ -124,12 +124,11 @@ export default function PresaleWidget() {
                             </span>
                             <span className="font-bold text-white tracking-wider">CROWDFUNDING IS LIVE</span>
                         </div>
-                        <h2 className="text-4xl md:text-6xl font-black mb-6 leading-tight text-white drop-shadow-sm">
-                            Take your place in the <br /><span className="text-blue-100">UBI Protocol</span>
+                        <h2 className="text-3xl md:text-5xl font-black mb-6 leading-tight text-white drop-shadow-sm">
+                            Secure your position in the <br /><span className="text-blue-100">UBI Protocol</span> before the early allocation window closes!
                         </h2>
                         <p className="text-xl text-white mb-8 font-medium leading-relaxed opacity-90">
-                            Prepare to receive your share from platforms that generate revenue!
-                            Join the Universal Blockchain Income ecosystem today.
+                            Crowdfunding may close at any time or the entry price may be increased along with $UBI DEX listings.
                         </p>
 
                         <div className="bg-white/10 backdrop-blur-md p-6 rounded-2xl border border-white/20 shadow-lg">
@@ -162,7 +161,7 @@ export default function PresaleWidget() {
                         <div className="absolute top-0 left-0 w-full h-2 bg-ubBlue"></div>
 
                         <h3 className="text-2xl font-black text-ubBlack mb-6 flex items-center gap-2">
-                            <Zap className="fill-ubBlue text-ubBlue" /> Buy $UBI Instantly
+                            <Zap className="fill-ubBlue text-ubBlue" /> Buy $UBI Instantly with Multiple Crypto Options
                         </h3>
 
                         <div className="space-y-6">
@@ -179,8 +178,8 @@ export default function PresaleWidget() {
                             </div>
 
                             <div className="flex justify-between items-center py-4 border-t border-ubBorder">
-                                <span className="text-ubGray font-bold text-lg">You Pay (USD)</span>
-                                <span className="text-4xl font-black text-ubBlue">${totalCost}</span>
+                                <span className="text-ubGray font-bold text-lg">1 UBI = $0.02</span>
+                                <span className="text-3xl md:text-4xl font-black text-ubBlue">${totalCost}</span>
                             </div>
 
                             <button
@@ -189,7 +188,7 @@ export default function PresaleWidget() {
                                 className="w-full py-5 bg-ubBlue hover:bg-ubDarkBlue text-white rounded-xl font-bold text-xl transition-all shadow-lg hover:shadow-xl hover:-translate-y-1 flex items-center justify-center gap-2 disabled:opacity-70 disabled:hover:translate-y-0"
                             >
                                 {isLoading ? <Loader className="animate-spin" /> : <Wallet />}
-                                {isLoading ? 'Processing...' : 'BUY UBI'}
+                                {isLoading ? 'Processing...' : 'BUY $UBI'}
                             </button>
 
                             <div className="flex justify-center gap-4">

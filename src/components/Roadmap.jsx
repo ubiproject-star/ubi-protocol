@@ -5,22 +5,22 @@ const phases = [
     {
         date: 'Q2 2026',
         title: 'USDC Giveaway Platform',
-        desc: 'Launch of our first major platform aiming for 100M users and projected $1B annual revenue.'
+        desc: 'Launch of our flagship mass-adoption platform targeting 100M users and over $1 Billion in projected annual revenue. The first major milestone that accelerates ecosystem growth and expands USDC rewards for early UBI holders.'
     },
     {
         date: 'Q3 2026',
         title: 'UBI Protocol DeFi Layer',
-        desc: 'DEX, PerpDEX and DAO platforms to be launched on Multi-Chains. ( Expected Revenue in Annually: 100M USDC )'
+        desc: 'Deployment of a multi-chain DeFi suite including DEX, PerpDEX and DAO infrastructure, projected to generate 100M+ USDC annually. A scalable financial engine powering long-term, sustainable revenue for the entire ecosystem.'
     },
     {
         date: 'Q4 2026',
         title: 'Social App',
-        desc: 'A decentralized social application leveraging UBI Protocol\'s userbase to diversify revenue streams. ( Expected Revenue in Annually: 500M USDC )'
+        desc: 'A decentralized social platform built on top of the UBI userbase, unlocking a new, diversified revenue vertical with an estimated 500M USDC annual potential. Designed to merge Web3 incentives with large-scale social engagement.'
     },
     {
         date: '2027+',
         title: 'Expansion',
-        desc: 'Announcement of 3 additional utility projects funded by the protocol treasury.'
+        desc: 'Launch of three additional high-impact utility platforms, fully funded by the protocol treasury. Strategic expansion focused on amplifying ecosystem value and increasing USDC revenue distribution to UBI holders.'
     }
 ];
 

@@ -28,6 +28,8 @@ export default function Header() {
                             <a href="#about" className="text-ubBlack font-bold hover:text-ubBlue transition-colors">About</a>
                             <a href="#tokenomics" className="text-ubBlack font-bold hover:text-ubBlue transition-colors">Tokenomics</a>
                             <a href="#roadmap" className="text-ubBlack font-bold hover:text-ubBlue transition-colors">Roadmap</a>
+                            <a href="#presale" className="text-ubBlack font-bold hover:text-ubBlue transition-colors">Crowdfunding</a>
+                            <a href="#faq" className="text-ubBlack font-bold hover:text-ubBlue transition-colors">FAQ</a>
                         </div>
                     </div>
                     <div className="-mr-2 flex md:hidden">
@@ -47,6 +49,9 @@ export default function Header() {
                         <Link to="/" onClick={() => { scrollToTop(); setIsOpen(false); }} className="block px-3 py-2 rounded-md text-base font-bold text-ubBlack hover:text-ubBlue hover:bg-ubOffWhite">Home</Link>
                         <a href="#about" className="block px-3 py-2 rounded-md text-base font-bold text-ubBlack hover:text-ubBlue hover:bg-ubOffWhite">About</a>
                         <a href="#tokenomics" className="block px-3 py-2 rounded-md text-base font-bold text-ubBlack hover:text-ubBlue hover:bg-ubOffWhite">Tokenomics</a>
+                        <a href="#roadmap" className="block px-3 py-2 rounded-md text-base font-bold text-ubBlack hover:text-ubBlue hover:bg-ubOffWhite">Roadmap</a>
+                        <a href="#presale" className="block px-3 py-2 rounded-md text-base font-bold text-ubBlack hover:text-ubBlue hover:bg-ubOffWhite">Crowdfunding</a>
+                        <a href="#faq" className="block px-3 py-2 rounded-md text-base font-bold text-ubBlack hover:text-ubBlue hover:bg-ubOffWhite">FAQ</a>
                     </div>
                 </div>
             )}

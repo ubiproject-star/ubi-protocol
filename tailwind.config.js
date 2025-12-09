@@ -31,6 +31,7 @@ export default {
         'fade-in': 'fadeIn 1s ease-out forwards',
         'pulse-glow': 'pulseGlow 2s infinite',
         'float': 'float 6s ease-in-out infinite',
+        'vibrate-glow': 'vibrate 0.3s linear infinite, lightBluePulse 2s infinite',
       },
       keyframes: {
         fadeIn: {
@@ -44,6 +45,15 @@ export default {
         float: {
           '0%, 100%': { transform: 'translateY(0)' },
           '50%': { transform: 'translateY(-20px)' },
+        },
+        vibrate: {
+          '0%, 100%': { transform: 'rotate(0deg)' },
+          '25%': { transform: 'rotate(1deg)' },
+          '75%': { transform: 'rotate(-1deg)' },
+        },
+        lightBluePulse: {
+          '0%, 100%': { boxShadow: '0 0 0 0 rgba(147, 197, 253, 0.7)' }, // blue-300
+          '70%': { boxShadow: '0 0 0 10px rgba(147, 197, 253, 0)' },
         }
       }
     },
