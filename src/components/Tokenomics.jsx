@@ -26,11 +26,11 @@ const PriceInfo = () => {
         <div className="bg-ubBlack text-white p-8 rounded-2xl shadow-lg relative overflow-hidden">
             <div className="absolute top-0 right-0 w-32 h-32 bg-ubBlue/20 rounded-full blur-3xl -mr-10 -mt-10"></div>
             <h3 className="text-ubLightGray text-sm font-bold uppercase tracking-wider mb-4">Current Stage Price</h3>
-            <div className="flex flex-col md:flex-row justify-between items-end gap-6 relative z-10">
+            <div className="flex flex-col md:flex-row justify-between items-center md:items-end gap-6 relative z-10">
                 <div>
                     <div className="text-5xl font-black text-white mb-2">$0.02</div>
                 </div>
-                <div className="text-right md:text-left">
+                <div className="text-center md:text-right">
                     <p className="text-xl font-medium text-blue-200">
                         Next Stage Price will be updated to $0.03 on February 20.
                     </p>
@@ -127,7 +127,7 @@ export default function Tokenomics() {
                                 </Pie>
                             </PieChart>
                         </ResponsiveContainer>
-                        <p className="absolute bottom-4 text-sm text-ubLightGray italic">
+                        <p className="absolute bottom-2 left-0 right-0 text-center text-sm text-ubLightGray italic">
                             *Click or hover sections to view details
                         </p>
                     </div>

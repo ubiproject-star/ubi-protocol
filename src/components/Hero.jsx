@@ -27,7 +27,7 @@ export default function Hero() {
     const titleText = "Universal Blockchain Income";
 
     return (
-        <div className="relative h-[100dvh] w-full overflow-hidden bg-ubDarkBlue flex items-center justify-center perspective-1000">
+        <div className="relative min-h-[100dvh] w-full overflow-hidden bg-ubDarkBlue flex items-center justify-center perspective-1000 py-20">
             {/* 3D Depth Background Gradient */}
             <div className="absolute inset-0 bg-gradient-to-b from-[#0052FF] via-[#003399] to-[#000F33] z-0 overflow-hidden">
                 {/* Caustic Overlay for "Water" feel */}

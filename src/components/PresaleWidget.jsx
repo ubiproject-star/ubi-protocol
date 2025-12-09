@@ -81,7 +81,7 @@ export default function PresaleWidget() {
     };
 
     return (
-        <section id="presale" className="py-24 bg-ubBlue relative h-auto min-h-[800px] flex items-center overflow-hidden">
+        <section id="presale" className="py-24 bg-ubBlue relative min-h-[100dvh] flex items-center overflow-hidden scroll-mt-24">
             {/* Gradient Background - Strict Blue */}
             <div className="absolute inset-0 z-0 bg-gradient-to-br from-ubBlue to-ubDarkBlue">
                 {/* Subtle particles */}
