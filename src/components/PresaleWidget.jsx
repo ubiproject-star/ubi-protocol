@@ -125,10 +125,10 @@ export default function PresaleWidget() {
                             <span className="font-bold text-white tracking-wider">CROWDFUNDING IS LIVE</span>
                         </div>
                         <h2 className="text-3xl md:text-5xl font-black mb-6 leading-tight text-white drop-shadow-sm">
-                            Secure your position in the <br /><span className="text-blue-100">UBI Protocol</span> before the early allocation window closes!
+                            Get your first UBI !
                         </h2>
                         <p className="text-xl text-white mb-8 font-medium leading-relaxed opacity-90">
-                            Crowdfunding may close at any time or the entry price may be increased along with $UBI DEX listings.
+                            Get $UBI at a favorable price before listings begin and benefit from future USDC earnings now !
                         </p>
 
                         <div className="bg-white/10 backdrop-blur-md p-6 rounded-2xl border border-white/20 shadow-lg">

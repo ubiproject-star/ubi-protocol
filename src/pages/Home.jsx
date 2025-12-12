@@ -13,10 +13,10 @@ export default function Home() {
         <div className="bg-black min-h-screen text-white">
             <Header />
             <Hero />
-            <About />
+            <PresaleWidget />
             <Tokenomics />
             <Roadmap />
-            <PresaleWidget />
+            <About />
             <FAQ />
             <Footer />
         </div>
